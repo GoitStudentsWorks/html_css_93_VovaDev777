@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/dream-team-project/",
+    "build": "vite build --base=/html_css_93_VovaDev777/",
     "preview": "vite preview"
   },
   "devDependencies": {
